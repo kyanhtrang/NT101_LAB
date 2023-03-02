@@ -1,0 +1,17 @@
+﻿  LAB02_BAI01.cpp
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI01\LAB02_BAI01.cpp(80,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI01\LAB02_BAI01.cpp(83,10): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI01\LAB02_BAI01.cpp(97,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI01\LAB02_BAI01.cpp(126,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI01\LAB02_BAI01.cpp(139,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI01\LAB02_BAI01.cpp(164,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI01\LAB02_BAI01.cpp(166,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI01\LAB02_BAI01.cpp(169,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI01\LAB02_BAI01.cpp(210,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI01\LAB02_BAI01.cpp(226,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI01\LAB02_BAI01.cpp(368,8): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI01\LAB02_BAI01.cpp(368,23): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI01\LAB02_BAI01.cpp(432,6): warning C4101: 'f': unreferenced local variable
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI01\LAB02_BAI01.cpp(37): warning C4715: 'greater': not all control paths return a value
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI01\LAB02_BAI01.cpp(588): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  LAB02_BAI01.vcxproj -> D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI01\x64\Debug\LAB02_BAI01.exe

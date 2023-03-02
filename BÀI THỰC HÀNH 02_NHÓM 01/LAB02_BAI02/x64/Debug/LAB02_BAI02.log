@@ -1,0 +1,17 @@
+﻿  LAB02_BAI02.cpp
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI02\LAB02_BAI02.cpp(83,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI02\LAB02_BAI02.cpp(86,10): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI02\LAB02_BAI02.cpp(101,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI02\LAB02_BAI02.cpp(130,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI02\LAB02_BAI02.cpp(143,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI02\LAB02_BAI02.cpp(169,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI02\LAB02_BAI02.cpp(171,40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI02\LAB02_BAI02.cpp(174,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI02\LAB02_BAI02.cpp(217,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI02\LAB02_BAI02.cpp(233,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI02\LAB02_BAI02.cpp(487,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI02\LAB02_BAI02.cpp(492,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI02\LAB02_BAI02.cpp(497,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI02\LAB02_BAI02.cpp(37): warning C4715: 'greater': not all control paths return a value
+D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI02\LAB02_BAI02.cpp(563): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  LAB02_BAI02.vcxproj -> D:\Tài liệu\An toàn Mạng máy tính\BÀI THỰC HÀNH 02_NHÓM 01\LAB02_BAI02\x64\Debug\LAB02_BAI02.exe

@@ -1,0 +1,11 @@
+C:\Users\kyanh\Desktop\BaiTap2_CaesarCipher\BaiTap2_CaesarCipher\bin\Debug\BaiTap2_CaesarCipher.exe.config
+C:\Users\kyanh\Desktop\BaiTap2_CaesarCipher\BaiTap2_CaesarCipher\bin\Debug\BaiTap2_CaesarCipher.exe
+C:\Users\kyanh\Desktop\BaiTap2_CaesarCipher\BaiTap2_CaesarCipher\bin\Debug\BaiTap2_CaesarCipher.pdb
+C:\Users\kyanh\Desktop\BaiTap2_CaesarCipher\BaiTap2_CaesarCipher\obj\Debug\BaiTap2_CaesarCipher.csproj.AssemblyReference.cache
+C:\Users\kyanh\Desktop\BaiTap2_CaesarCipher\BaiTap2_CaesarCipher\obj\Debug\BaiTap2_CaesarCipher.csproj.SuggestedBindingRedirects.cache
+C:\Users\kyanh\Desktop\BaiTap2_CaesarCipher\BaiTap2_CaesarCipher\obj\Debug\BaiTap2_CaesarCipher.Properties.Resources.resources
+C:\Users\kyanh\Desktop\BaiTap2_CaesarCipher\BaiTap2_CaesarCipher\obj\Debug\BaiTap2_CaesarCipher.csproj.GenerateResource.cache
+C:\Users\kyanh\Desktop\BaiTap2_CaesarCipher\BaiTap2_CaesarCipher\obj\Debug\BaiTap2_CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Users\kyanh\Desktop\BaiTap2_CaesarCipher\BaiTap2_CaesarCipher\obj\Debug\BaiTap2_CaesarCipher.exe
+C:\Users\kyanh\Desktop\BaiTap2_CaesarCipher\BaiTap2_CaesarCipher\obj\Debug\BaiTap2_CaesarCipher.pdb
+C:\Users\kyanh\Desktop\BaiTap2_CaesarCipher\BaiTap2_CaesarCipher\obj\Debug\BaiTap2_CaesarCipher.BaiTap2.resources
